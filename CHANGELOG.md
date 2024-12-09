@@ -1,5 +1,30 @@
 # @balancer/sdk
 
+## 0.33.3
+
+### Patch Changes
+
+- 6ec44e1: Update to main deployments (Mainnet, Gnosis and Sepolia)
+- 688d857: Add permit and permit2 signature examples
+
+## 0.33.2
+
+### Patch Changes
+
+- 863822c: Use correct index for underlying token redeem call.
+
+## 0.33.1
+
+### Patch Changes
+
+- b2b9411: Enable add liquidity proportional for stable pools on v3
+
+## 0.33.0
+
+### Minor Changes
+
+- 2d192ff: Update to testnet deployment 11
+
 ## 0.32.2
 
 ### Patch Changes
